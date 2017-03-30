@@ -1,0 +1,40 @@
+body {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	/*background-image: url('../images/jungle.jpg');*/
+}
+
+label {
+	color: orange;
+}
+
+
+button {
+	background-color: #43efbe;
+	color: #fff;
+	margin: 5px;
+
+}
+
+#animalButtons {
+	border: 2px solid red;
+}
+
+#animalForm {
+	border: 2px solid red;
+	float: right;
+}
+
+#animals {
+	border: 2px solid red;
+	float: left;
+	width: 100%;
+	display: inline;
+	
+}
+
+#animals img {
+	display: inline;
+	float: left;
+}
